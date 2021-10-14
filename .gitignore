@@ -10,6 +10,14 @@
 /Command Pattern/[Ll]ogs/
 /Command Pattern/[Mm]emoryCaptures/
 
+/Flyweight Pattern/[Ll]ibrary/
+/Flyweight Pattern/[Tt]emp/
+/Flyweight Pattern/[Oo]bj/
+/Flyweight Pattern/[Bb]uild/
+/Flyweight Pattern/[Bb]uilds/
+/Flyweight Pattern/[Ll]ogs/
+/Flyweight Pattern/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
